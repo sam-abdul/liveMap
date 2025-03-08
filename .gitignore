@@ -32,5 +32,9 @@ yarn-error.*
 # local env files
 .env*.local
 
+.env 
+ios/liveMap/AppDelegate.mm
+
+
 # typescript
 *.tsbuildinfo

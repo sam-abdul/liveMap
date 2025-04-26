@@ -1,0 +1,70 @@
+{
+    "requestType": "tour",
+    "earthRadius": 20914213,
+    "response": 0.75,
+    "places": [
+        {
+            "name": "Beerbasha",
+            "municipality": "Baku",
+            "latitude": "40.36389",
+            "longitude": "49.81917",
+            "elevation": "298"
+        },
+        {
+            "name": "Cohones Brewery",
+            "municipality": "Sofia",
+            "latitude": "42.709189",
+            "longitude": "23.337651",
+            "elevation": "1741"
+        },
+        {
+            "name": "BrewPub Rooftop",
+            "municipality": "Usaquén",
+            "latitude": "4.6987431",
+            "longitude": "-74.0296955",
+            "elevation": "8694"
+        },
+        {
+            "name": "Santos Brewery",
+            "municipality": "Quito",
+            "latitude": "-0.194534",
+            "longitude": "-78.485817",
+            "elevation": "9100"
+        },
+        {
+            "name": "The Beer Factory",
+            "municipality": "Paris",
+            "latitude": "60.47784",
+            "longitude": "24.91970",
+            "elevation": "111"
+        },
+        {
+            "name": "Kyoto Beer Lab",
+            "municipality": "Shimogyo Ward",
+            "latitude": "34.99088",
+            "longitude": "135.76565",
+            "elevation": "98"
+        },
+        {
+            "name": "Three Horses Beer",
+            "municipality": "Antananarivo",
+            "latitude": "-18.9136",
+            "longitude": "47.5239",
+            "elevation": "3937"
+        },
+        {
+            "name": "Animal Brew",
+            "municipality": "Panama City",
+            "latitude": "8.5917",
+            "longitude": "-79.3126",
+            "elevation": "42"
+        },
+        {
+            "name": "SOBOA",
+            "municipality": "Dakar",
+            "latitude": "14.692168",
+            "longitude": "-17.434402",
+            "elevation": "13"
+        }
+    ]
+}
